@@ -1,0 +1,8 @@
+@font-face{
+	font-weight:400;
+	font-style:normal;
+	font-display:swap;
+	font-family:Montserrat;
+	src:url(//mediaverse-static.plex.tv/client/assets/fonts/Montserrat-SemiBold.e9a354f07b009377ce558b2932a14ec4.woff2) format("woff2");
+	unicode-range:U+0-ff,U+131,U+152,U+153,U+2bb,U+2bc,U+2c6,U+2da,U+2dc,U+2000-206f,U+2074,U+20ac,U+2122,U+2191,U+2193,U+2212,U+2215,U+feff,U+fffd
+}
